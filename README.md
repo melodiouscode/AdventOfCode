@@ -1,4 +1,5 @@
 # Melodious Advent of Code
+[![.NET](https://github.com/melodiouscode/AdventOfCode/actions/workflows/dotnet.yml/badge.svg)](https://github.com/melodiouscode/AdventOfCode/actions/workflows/dotnet.yml)
 The melodiouscode implementation of the Advent of Code puzzles; template based on the [AdventOfCode.Template project by eduherminio](https://github.com/eduherminio/AdventOfCode.Template).
 
 ## Basic useage
